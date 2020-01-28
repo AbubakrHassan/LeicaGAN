@@ -11,6 +11,12 @@ tar -xvzf annotations.tgz
 tar -xvzf attributes.tgz
 tar -xvzf attributes-yaml.tgz
 
+rm images.tgz
+rm lists.tgz
+rm annotations.tgz
+rm attributes.tgz
+rm attributes-yaml.tgz
+
 
 
 
